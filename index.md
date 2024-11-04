@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About MIGA
 
-[Link to another page](./another-page.html).
+- [What is MIGA](./docs/intro.html)
+- [Twitter](https://x.com/miga_icp)
+- [OpenChat Community](https://oc.app/?ref=yvpdi-lqaaa-aaaaf-bkotq-cai)
+- [Contact for collaboration](https://oc.app/user/yvpdi-lqaaa-aaaaf-bkotq-cai)
 
-There should be whitespace between paragraphs.
+## Community Events
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- [2024/11/06 - Blade 加密夜话 EP01](./docs/events/20241106_1783_ep01.html)
 
-# Header 1
+## Web3 Tips
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [2024/11/03 - How to sign up an OpenChat account?](https://x.com/miga_icp/status/1852879000512893296)
+- [2024/11/02 - How to create an Internet Identity on ICP?](https://x.com/miga_icp/status/1852649897092415652)
+- [2024/10/31 - What are "cycles" in ICP?](https://x.com/miga_icp/status/1851804766848061476)
+- [2024/06/03 - Follow MIGA's neuron for NNS voting](https://x.com/miga_icp/status/1797553000069881945)
 
-## Header 2
+## NNS Proposals
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [2024/06/18 - YES - Proposal 130405 - Octopus Network](https://x.com/miga_icp/status/1802739524977467678)
+- [2024/06/18 - YES - Proposal 130376 - WaterNeuron](https://x.com/miga_icp/status/1802769027896312016)
+- [2024/06/03 - NO - Proposal 130142 - Nobleblocks](https://x.com/miga_icp/status/1797640044859265080)
