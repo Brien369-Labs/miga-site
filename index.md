@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Make ICP Great Again ("MIGA")
+## About
 
 - [What is MIGA](./docs/intro.html)
 - [Twitter](https://x.com/miga_icp)
