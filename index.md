@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Make ICP Great Again (MIGA)
 ---
 
 ## About
