@@ -9,6 +9,7 @@ title: Make ICP Great Again (MIGA)
 - [Twitter](https://x.com/miga_icp)
 - [OpenChat Community](https://oc.app/?ref=yvpdi-lqaaa-aaaaf-bkotq-cai)
 - [Contact for collaboration](https://oc.app/user/yvpdi-lqaaa-aaaaf-bkotq-cai)
+- [Press kit](./docs/press.html)
 
 ## Community Events
 
