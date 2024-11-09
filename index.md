@@ -17,6 +17,7 @@ title: Make ICP Great Again (MIGA)
 
 ## Web3 Tips
 
+- [2024/11/06 - How to join The Galactic DOD Mining Pool?](https://x.com/miga_icp/status/1854180514535792948)
 - [2024/11/03 - How to sign up an OpenChat account?](https://x.com/miga_icp/status/1852879000512893296)
 - [2024/11/02 - How to create an Internet Identity on ICP?](https://x.com/miga_icp/status/1852649897092415652)
 - [2024/10/31 - What are "cycles" in ICP?](https://x.com/miga_icp/status/1851804766848061476)
